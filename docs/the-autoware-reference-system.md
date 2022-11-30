@@ -1,1 +1,0 @@
-../autoware_reference_system/README.md
